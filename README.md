@@ -1,3 +1,5 @@
+# TIC-TAC-TOE GAME in python
+
 ### 1. `ai-player.py`
 
 `ai-player.py` is a Python script implementing a classic Tic Tac Toe game for two players. The game is played on a 3x3 grid where players take turns placing their marks (X or O) in empty cells. The script handles player input validation, checks for win conditions, and displays the game board after each move. The game continues until a player wins or the board is full, resulting in a draw.
